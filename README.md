@@ -4,8 +4,8 @@
   <img width=600 src="https://krasjet.com/rnd.wlk/julia/imgs/console.png">
 </p>
 
-This repository contains the files referenced in "[julia as a cli
-calculator](https://krasjet.com/rnd.wlk/julia/)", plus a Jupyter notebook
+This repository contains the files referenced in “[julia as a cli
+calculator](https://krasjet.com/rnd.wlk/julia/)”, plus a Jupyter notebook
 containing all the input code blocks.
 
 Jupyter notebook's capability is too limiting for the code examples to work.

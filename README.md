@@ -1,7 +1,7 @@
 # julia as a cli calculator
 
 <p align="center">
-  <img width=480 src="https://krasjet.com/rnd.wlk/julia/imgs/console.png">
+  <img width=600 src="https://krasjet.com/rnd.wlk/julia/imgs/console.png">
 </p>
 
 This repository contains the files referenced in "[julia as a cli
